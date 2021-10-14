@@ -1,0 +1,30 @@
+/*
+    Wireless
+    Layout Style Sheet
+
+    Author: Morgan Galer
+*/
+
+/* Heading styles */
+
+h3 {
+     font-family: Times, Times New Roman, serif;
+     font-size: 1.3em;
+     text-transform: uppercase;
+     text-align: right;
+     color: maroon;
+
+}
+
+/* body */
+
+body {
+     background-color: #e6e6fa;
+     font-family: Arial, sans-serif;
+     font-size: 1.2em
+     text-emphasis: green;
+}
+
+ /* links */
+
+
